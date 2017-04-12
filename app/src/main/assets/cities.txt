@@ -1,238 +1,238 @@
-Adak, AK
-ADK
-Anchorage, AK
-ANC
-Barrow, AK
-BRW
-Bethel, AK
-BET
-Cordova, AK
-CDV
-Dillingham, AK
-DLG
-Dutch Harbor, AK
-DUT
-Fairbanks, AK
-FAI
-Gustavus/Glacier Bay, AK
-GST
-Juneau, AK
-JNU
-Ketchikan, AK
-KTN
-King Salmon, AK
-AKN
-Kodiak, AK
-ADQ
-Kotzebue, AK
-OTZ
-Nome, AK
-OME
-Petersburg, AK
-PSG
-Sika, AK
-SIT
-Wrangell, AK
-WRG
-Yakutat, AK
-YAK
-Deadhorse/Prudhoe Bay, AK
-SCC
-Phoenix, AZ
-PHX
-Tucson, AZ
-TUS
-Burbank, CA
-BUR
-Fresno, CA
-FAT
-Los Angeles, CA
-LAX
-Mammoth Lake, CA
-MMH
-Monterey, CA
-MRY
-Oakland, CA
-OAK
-Ontario, CA
-ONT
-Santa Ana/Orange County, CA
-SNA
-Palm Springs, CA
-PSP
-Sacramento, CA
-SMF
-San Diego, CA
-SAN
-San Fransisco, CA
-SFO
-San Jose, CA
-SJC
-Long Beach, CA
-LGB
-Sonoma, CA
-STS
-Santa Barbara, CA
-SBA
-San Luis Obispo, CA
-SBP
-Colorado Springs, CO
-COS
-Crested Butte, CO
-GUC
-Denver, CO
-DEN
-Steamboat Springs, CO
-HDN
+Adak, A K
+A D K
+Anchorage, A K
+A N C
+Barrow, A K
+B R W
+Bethel, A K
+B E T
+Cordova, A K
+C D V
+Dillingham, A K
+D L G
+Dutch Harbor, A K
+D U T
+Fairbanks, A K
+F A I
+Gustavus/Glacier Bay, A K
+G S T
+Juneau, A K
+J N U
+Ketchikan, A K
+K T N
+King Salmon, A K
+A K N
+Kodiak, A K
+A D Q
+Kotzebue, A K
+O T Z
+Nome, A K
+O M E
+Petersburg, A K
+P S G
+Sika, A K
+S I T
+Wrangell, A K
+W R G
+Yakutat, A K
+Y A K
+Deadhorse/Prudhoe Bay, A K
+S C C
+Phoenix, A Z
+P H X
+Tucson, A Z
+T U S
+Burbank, C A
+B U R
+Fresno, C A
+F A T
+Los Angeles, C A
+L A X
+Mammoth Lake, C A
+M M H
+Monterey, C A
+M R Y
+Oakland, C A
+O A K
+Ontario, C A
+O N T
+Santa Ana/Orange County, C A
+S N A
+Palm Springs, C A
+P S P
+Sacramento, C A
+S M F
+San Diego, C A
+S A N
+San Fransisco, C A
+S F O
+San Jose, C A
+S J C
+Long Beach, C A
+L G B
+Sonoma, C A
+S T S
+Santa Barbara, C A
+S B A
+San Luis Obispo, C A
+S B P
+Colorado Springs, C O
+C O S
+Crested Butte, C O
+G U C
+Denver, C O
+D E N
+Steamboat Springs, C O
+H D N
 Washington DC/District of Columbia/Reagan
-DCA
-Fort Lauderdale, FL
-FLL
-Orlando, FL
-MCO
-Tampa, FL
-TPA
-Miami, FL
-MIA
-Atlanta, GA
-ATL
-Lihue/Kuaui, HI
-LIH
-Kona, HI
-KOA
-Kahului/Maui, HI
-OGG
-Honolulu/Oahu, HI
-HNL
-Boise, ID
-BOI
-Sun Valley, ID
-SUN
-Lewiston, ID
-LWS
-Chicago/O'Hare, IL
-ORD
-Indianapolis, IN
-IND
-Wichita, KS
-ICT
-New Orleans, LA
-MSY
-Baltimore, MD
-BWI
-Boston, MA
-BOS
-Detroit, MI
-DTW
-Minneapolis/St Paul, MN
-MSP
-Kansas City, MO
-MCI
-St. Louis, MO
-STL
-Billings, MT
-BIL
-Bozeman, MT
-BZN
-Great Falls, MT
-GTF
-Helena, MT
-HLN
-Kalispell, MT
-FCA
-Missoula, MT
-MSO
-Omaha, NE
-OMA
-Las Vegas, NV
-LAS
-Reno, NV
-RNO
-Newark, NJ
-EWR
-Albuquerque, NM
-ABQ
-New York, NY
-JFK
-Raleigh, NC
-RDU
-Oklahoma City, OK
-OKC
-Redmond, OR
-RDM
-Eugene, OR
-EUG
-Medford, OR
-MFR
-Portland, OR
-PDX
-Philadelphia, PA
-PAL
-Charleston, SC
-CHS
-Nashville, TN
-BNA
-Austin, TX
-AUS
-Dallas/Ft. Worth, TX
-DFW
-Houston, TX
-IAH
-San Antonio, TX
-SAT
-Salt Lake City, UT
-SLC
-Dulles, VA
-IAD
-Bellingham, WA
-BLI
-Pasco, WA
-PSC
-Pullman, WA
-PUW
-Seattle, WA
-SEA
-Spokane, WA
-GEG
-Walla Walla, WA
-ALW
-Wenatchee, WA
-EAT
-Yakima, WA
-YKM
-Milwaukee, WI
-MKE
-Calgary, AB
-YYC
-Edmonton, AB
-YEG
-Kelowna, AB
-YLW
+D C A
+Fort Lauderdale, F L
+F L L
+Orlando, F L
+M C O
+Tampa, F L
+T P A
+Miami, F L
+M I A
+Atlanta, G A
+A T L
+Lihue/Kuaui, H I
+L I H
+Kona, H I
+K O A
+Kahului/Maui, H I
+O G G
+Honolulu/Oahu, H I
+H N L
+Boise, I D
+B O I
+Sun Valley, I D
+S U N
+Lewiston, I D
+L W S
+Chicago/O'Hare, I L
+O R D
+Indianapolis, I N
+I N D
+Wichita, K S
+I C T
+New Orleans, L A
+M S Y
+Baltimore, M D
+B W I
+Boston, M A
+B O S
+Detroit, M I
+D T W
+Minneapolis/St Paul, M N
+M S P
+Kansas City, M O
+M C I
+St. Louis, M O
+S T L
+Billings, M T
+B I L
+Bozeman, M T
+B Z N
+Great Falls, M T
+G T F
+Helena, M T
+H L N
+Kalispell, M T
+F C A
+Missoula, M T
+M S O
+Omaha, N E
+O M A
+Las Vegas, N V
+L A S
+Reno, N V
+R N O
+Newark, N J
+E W R
+Albuquerque, N M
+A B Q
+New York, N Y
+J F K
+Raleigh, N C
+R D U
+Oklahoma City, O K
+O K C
+Redmond, O R
+R D M
+Eugene, O R
+E U G
+Medford, O R
+M F R
+Portland, O R
+P D X
+Philadelphia, P A
+P A L
+Charleston, S C
+C H S
+Nashville, T N
+B N A
+Austin, T X
+A U S
+Dallas/Fort Worth, T X
+D F W
+Houston, T X
+I A H
+San Antonio, T X
+S A T
+Salt Lake City, U T
+S L C
+Dulles, V A
+I A D
+Bellingham, W A
+B L I
+Pasco, W A
+P S C
+Pullman, W A
+P U W
+Seattle, W A
+S E A
+Spokane, W A
+G E G
+Walla Walla, W A
+A L W
+Wenatchee, W A
+E A T
+Yakima, W A
+Y K M
+Milwaukee, W I
+M K E
+Calgary, A B
+Y Y C
+Edmonton, A B
+Y E G
+Kelowna, A B
+Y L W
 Vancouver/BC, Canada
-YVR
-Victoria, AB
-YYJ
+Y V R
+Victoria, A B
+Y Y J
 Liberia, Costa Rica
-LIR
+L I R
 San Jose, Costa Rica
-SJO
+S J O
 Havana, Cuba
-HAV
+H A V
 Cancun, Mexico
-CUN
+C U N
 Guadalajara, Mexico
-GDL
+G D L
 Loreto, Mexico
-LTO
+L T O
 Los Cabos, Mexico
-SJD
+S J D
 Manzanillo, Mexico
-ZLO
+Z L O
 Mazatlan, Mexico
-MZT
+M Z T
 Puerto Vallerta, Mexico
-PVR
+P V R
 Ixtapa/Zihuatenjo, Mexico
-ZIH
+Z I H
 La Paz, Mexico
-LAP
+L A P
