@@ -1,0 +1,238 @@
+Adak, AK
+ADK
+Anchorage, AK
+ANC
+Barrow, AK
+BRW
+Bethel, AK
+BET
+Cordova, AK
+CDV
+Dillingham, AK
+DLG
+Dutch Harbor, AK
+DUT
+Fairbanks, AK
+FAI
+Gustavus/Glacier Bay, AK
+GST
+Juneau, AK
+JNU
+Ketchikan, AK
+KTN
+King Salmon, AK
+AKN
+Kodiak, AK
+ADQ
+Kotzebue, AK
+OTZ
+Nome, AK
+OME
+Petersburg, AK
+PSG
+Sika, AK
+SIT
+Wrangell, AK
+WRG
+Yakutat, AK
+YAK
+Deadhorse/Prudhoe Bay, AK
+SCC
+Phoenix, AZ
+PHX
+Tucson, AZ
+TUS
+Burbank, CA
+BUR
+Fresno, CA
+FAT
+Los Angeles, CA
+LAX
+Mammoth Lake, CA
+MMH
+Monterey, CA
+MRY
+Oakland, CA
+OAK
+Ontario, CA
+ONT
+Santa Ana/Orange County, CA
+SNA
+Palm Springs, CA
+PSP
+Sacramento, CA
+SMF
+San Diego, CA
+SAN
+San Fransisco, CA
+SFO
+San Jose, CA
+SJC
+Long Beach, CA
+LGB
+Sonoma, CA
+STS
+Santa Barbara, CA
+SBA
+San Luis Obispo, CA
+SBP
+Colorado Springs, CO
+COS
+Crested Butte, CO
+GUC
+Denver, CO
+DEN
+Steamboat Springs, CO
+HDN
+Washington DC/District of Columbia/Reagan
+DCA
+Fort Lauderdale, FL
+FLL
+Orlando, FL
+MCO
+Tampa, FL
+TPA
+Miami, FL
+MIA
+Atlanta, GA
+ATL
+Lihue/Kuaui, HI
+LIH
+Kona, HI
+KOA
+Kahului/Maui, HI
+OGG
+Honolulu/Oahu, HI
+HNL
+Boise, ID
+BOI
+Sun Valley, ID
+SUN
+Lewiston, ID
+LWS
+Chicago/O'Hare, IL
+ORD
+Indianapolis, IN
+IND
+Wichita, KS
+ICT
+New Orleans, LA
+MSY
+Baltimore, MD
+BWI
+Boston, MA
+BOS
+Detroit, MI
+DTW
+Minneapolis/St Paul, MN
+MSP
+Kansas City, MO
+MCI
+St. Louis, MO
+STL
+Billings, MT
+BIL
+Bozeman, MT
+BZN
+Great Falls, MT
+GTF
+Helena, MT
+HLN
+Kalispell, MT
+FCA
+Missoula, MT
+MSO
+Omaha, NE
+OMA
+Las Vegas, NV
+LAS
+Reno, NV
+RNO
+Newark, NJ
+EWR
+Albuquerque, NM
+ABQ
+New York, NY
+JFK
+Raleigh, NC
+RDU
+Oklahoma City, OK
+OKC
+Redmond, OR
+RDM
+Eugene, OR
+EUG
+Medford, OR
+MFR
+Portland, OR
+PDX
+Philadelphia, PA
+PAL
+Charleston, SC
+CHS
+Nashville, TN
+BNA
+Austin, TX
+AUS
+Dallas/Ft. Worth, TX
+DFW
+Houston, TX
+IAH
+San Antonio, TX
+SAT
+Salt Lake City, UT
+SLC
+Dulles, VA
+IAD
+Bellingham, WA
+BLI
+Pasco, WA
+PSC
+Pullman, WA
+PUW
+Seattle, WA
+SEA
+Spokane, WA
+GEG
+Walla Walla, WA
+ALW
+Wenatchee, WA
+EAT
+Yakima, WA
+YKM
+Milwaukee, WI
+MKE
+Calgary, AB
+YYC
+Edmonton, AB
+YEG
+Kelowna, AB
+YLW
+Vancouver/BC, Canada
+YVR
+Victoria, AB
+YYJ
+Liberia, Costa Rica
+LIR
+San Jose, Costa Rica
+SJO
+Havana, Cuba
+HAV
+Cancun, Mexico
+CUN
+Guadalajara, Mexico
+GDL
+Loreto, Mexico
+LTO
+Los Cabos, Mexico
+SJD
+Manzanillo, Mexico
+ZLO
+Mazatlan, Mexico
+MZT
+Puerto Vallerta, Mexico
+PVR
+Ixtapa/Zihuatenjo, Mexico
+ZIH
+La Paz, Mexico
+LAP
